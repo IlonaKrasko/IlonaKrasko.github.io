@@ -3,6 +3,7 @@
 ### Mājas lapas izveide
 
 **Mājas lapa ir izveidota ar _strikingly.com_**
+
 **Bildes ir paņemtas no _pinterest.com_ vai no piedāvātājiem _strikingly.com_**
 
 ### Mājas lapas sadaļas:
@@ -11,10 +12,7 @@
 3. Galerija
 4. Par Mums
 5. "Ienāc ciemos"
-   
-## Mājas lapas logo:
-
-![Logo](\Users\user\Downloads\cat_logo.png)
 
 **Mājaslapas links: [sadcat](https://sadcat.mystrikingly.com)**
+
 **Links uz Balsamiq skici:: [Balsamiq](https://balsamiq.cloud/s5lxhkc/pekzxyb)**
